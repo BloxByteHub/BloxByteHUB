@@ -6,7 +6,8 @@ local Games = {
     [121863161094252] = "AxeRNG.lua",
     [126213452886809] = "KnowledgeIncremental.lua",
     [139992937215031] = "DropBallsForBrainrots.lua",
-    [110627433764494] = "FakeaBrainrot.lua"
+    [110627433764494] = "FakeaBrainrot.lua",
+    [71213902019049] = "CrossRiversforBrainrots.lua"
 }
 
 local gameScript = Games[GameID]
